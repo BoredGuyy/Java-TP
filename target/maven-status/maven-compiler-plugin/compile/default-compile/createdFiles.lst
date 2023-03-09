@@ -1,0 +1,10 @@
+ma\pfe\repositries\StudentRepositryIML.class
+ma\pfe\service\StudentServiceIMPL.class
+ma\pfe\dtos\StudentsDto.class
+ma\pfe\entites\StudentEntity.class
+ma\pfe\service\StudentService.class
+ma\pfe\Applicationmain.class
+org\example\Main.class
+ma\pfe\repositries\StudentRepositry.class
+ma\pfe\mappes\StudentMapper.class
+ma\pfe\controller\StudentController.class
